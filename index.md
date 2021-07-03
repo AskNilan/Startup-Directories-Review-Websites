@@ -1,5 +1,5 @@
 
-Subreddits | Link
+|Subreddits | Link
 --- | ---
 | AlphaandBetausers | https://www.reddit.com/r/alphaandbetausers/
 | IndieBiz | https://www.reddit.com/r/indiebiz/
